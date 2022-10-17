@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+    //First assignment
     double temp;
     cout << "What is the temperature?" << endl;
     cin >> temp;
